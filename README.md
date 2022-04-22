@@ -30,6 +30,18 @@ HEXA POCKET CRYPTOCURRENCY WALLET
 - Component
 - useRef
 
+> Install Checklist
+
+- [x] Hexa_Secret_Phrase
+- [ ] Dexcanary Number and Text
+- [ ] Dexcanary Hexa Pocket Package
+- [ ] Hexa Pocket Cryptocurrency
+- [x] web3
+- [x] Axios
+- [x] ethereum-blockies-base64
+- [x] reactjs-popup
+
+
 ## File Arranging System Catagories in Hexa Pocket
 
 Dexcanary Hexa Pocket file store are devide into five (5) catagories
@@ -67,7 +79,10 @@ Most of the Component File Store is about 'tip, comment, announcement and a smal
 
 | File | Note |
 |------|------|
-| /components/
+| /components/menuBar.js | Menu For Wallet |
+| /components/smallScreenService.js | Transaction Services for Small Screen |
+| /components/notificationPopup.js | Modal for notified info to the user |
+
 
 ### Transaction - JS, TS
 
